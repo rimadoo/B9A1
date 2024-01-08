@@ -47,8 +47,9 @@ h2{
     background-color:beige;
     text-align: center;
     padding: 30px;
-    margin-right: 60px;
+  
     margin-left: 60px;
+ 
 }
 .amar{
     margin-top: 0cqmin;
@@ -68,3 +69,112 @@ h2{
     width: 6%;
     
 }
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  
+  }
+  
+  .image1 {
+  
+    top: 10px;
+    right: 100px;
+   
+    padding-right: 10000px;
+    width: 200px;
+    
+
+  }
+  
+  .image2 {
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    
+    width: 90px;
+  }
+  .chompa{
+    position: relative;
+    
+    width: 1000px;
+    
+
+  }
+  .bbq{
+    width: 1000px;
+    height: 100px;
+    
+  }
+.popo{
+    position: absolute;
+    top: -50px;
+    left: 740px;
+    height: 140px;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .oishu{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: 50px;
+  }
+  .nouka{
+    background-color: orangered;
+    padding: 7px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+  }
+  .dhan{
+    background-color:hsl(37, 100%, 92%) ;
+    padding: 50px;
+  }
+  .lumn {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  
+  .ow::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .ow {
+    display: flex;
+    width: 200px;
+    
+    
+
+  }
+  
+  .lumn {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  .lumn {
+    width: 100%;
+  }  
+  .ketumi{
+    background-color: rgb(17, 15, 15);
+    padding: 70px;
+
+  }
+  .nond{
+    text-align:right;
+  }
