@@ -1,0 +1,70 @@
+.hero-image{
+    background-image: url(/resources/Banner\ Image.png);
+    height: 460px ;
+    width: 1260px;
+
+   padding-left: 30px;
+   padding-right: 30px;
+   display: flex;
+   margin-top: 60px;
+   margin-left: 60px;
+   margin-right: 60px;
+   margin-bottom: 0cqmin;
+ 
+}
+.hero-text{
+   color:white;
+   text-align: center;
+   text-shadow: black;
+   text-emphasis-position: 10px;
+   text-align:initial;
+   text-size-adjust: 50px;
+   text-overflow: ellipsis;
+}
+div{
+   text-align: center;
+   padding: 70px;
+}
+h1 {
+    font-size: 60px;
+}
+p{
+    font-size: large;
+}
+h2{
+    text-align: center;
+}
+.samia{
+    background-image: url(/resources/Vectorrr.png);
+    height: 400px;
+    width: 1220px;
+   padding-left: 80px;
+   padding-top: 90px;
+   margin-left: 60px;
+   margin-right: 60px;
+}
+.maisha{
+    background-color:beige;
+    text-align: center;
+    padding: 30px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+.amar{
+    margin-top: 0cqmin;
+    text-align: center;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;    
+    border: red;
+    
+
+}
+.bb{
+    float: right;
+    width: 6%;
+    
+}
