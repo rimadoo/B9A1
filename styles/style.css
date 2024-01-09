@@ -13,13 +13,16 @@
  
 }
 .hero-text{
-   color:white;
+   color:whitesmoke;
    text-align: center;
-   text-shadow: black;
+   margin-left: 350px;
+   margin-top: 20px;
+    text-shadow: black;
    text-emphasis-position: 10px;
-   text-align:initial;
+ 
    text-size-adjust: 50px;
    text-overflow: ellipsis;
+  
 }
 div{
    text-align: center;
@@ -47,8 +50,10 @@ h2{
     background-color:beige;
     text-align: center;
     padding: 30px;
-  
+    margin-right: 60px;
     margin-left: 60px;
+    width: 1245px;
+   
  
 }
 .amar{
@@ -97,8 +102,8 @@ h2{
   .chompa{
     position: relative;
     
-    width: 1000px;
-    
+    width: 1px;
+  
 
   }
   .bbq{
@@ -123,6 +128,15 @@ h2{
     clear: both;
     display: table;
   }
+  .row {
+    display:flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+ 
   .oishu{
     display: block;
   margin-left: auto;
@@ -177,4 +191,8 @@ h2{
   }
   .nond{
     text-align:right;
+  }
+  .toma{
+    padding-right: 80px;
+    font-size: larger;
   }
