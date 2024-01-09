@@ -64,8 +64,8 @@ h2{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;   
-    height: 20%; 
+    width: 30%;   
+    height: 30%; 
     border-radius: 50%;
     border: 8px solid red;
     padding: 20px;
@@ -131,15 +131,7 @@ h2{
     clear: both;
     display: table;
   }
-  .row {
-    display:flex;
-  }
   
-  .column {
-    flex: 33.33%;
-    padding: 5px;
-  }
- 
   .oishu{
     display: block;
   margin-left: auto;
@@ -198,4 +190,7 @@ h2{
   .toma{
     padding-right: 80px;
     font-size: larger;
+  }
+  .rrr{
+    text-align: end;
   }
