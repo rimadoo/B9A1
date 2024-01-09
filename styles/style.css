@@ -64,8 +64,8 @@ h2{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;   
-    height: 30%; 
+    width: 20%;   
+    height: 20%; 
     border-radius: 50%;
     border: 8px solid red;
     padding: 20px;
@@ -74,7 +74,7 @@ h2{
 }
 .bb{
     float: right;
-    width: 6%;
+    width: 10%;
     
 }
 .parent {
@@ -146,7 +146,7 @@ h2{
   margin-left: auto;
   margin-right: auto;
   border-radius: 10px;
-  
+
  
   }
   .dhan{
