@@ -141,12 +141,13 @@ h2{
   }
   .nouka{
     background-color: orangered;
-    padding: 7px;
+    padding: 10px;
     display: block;
   margin-left: auto;
   margin-right: auto;
-
+  border-radius: 10px;
   
+ 
   }
   .dhan{
     background-color:hsl(37, 100%, 92%) ;
@@ -191,6 +192,4 @@ h2{
     padding-right: 80px;
     font-size: larger;
   }
-  .rrr{
-    text-align: end;
-  }
+  
